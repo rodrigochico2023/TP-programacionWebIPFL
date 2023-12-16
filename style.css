@@ -1,0 +1,29 @@
+footer {
+    width: 100%; /* O el ancho que desees, por ejemplo, 90% */
+    padding: 15px; /* Ajusta el relleno según tus preferencias */
+    box-sizing: border-box; /* Asegura que el relleno no afecte el tamaño total del elemento */
+     /* Cambia el color de fondo según tus preferencias */
+    color: white; /* Cambia el color del texto según tus preferencias */
+}
+
+
+
+.login-container {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.margin-cards{
+    margin-top: 80px;
+
+}
+
+.message-container {
+    display: none;
+    background-color: red;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
